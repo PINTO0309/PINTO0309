@@ -5,3 +5,4 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PINTO0309&repo=TPU-MobilenetSSD)](https://github.com/PINTO0309/TPU-MobilenetSSD)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PINTO0309&repo=MobileNetV2-PoseEstimation)](https://github.com/PINTO0309/MobileNetV2-PoseEstimation)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PINTO0309&repo=TensorflowLite-UNet)](https://github.com/PINTO0309/TensorflowLite-UNet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PINTO0309&repo=TPU-Posenet)](https://github.com/PINTO0309/TPU-Posenet)
