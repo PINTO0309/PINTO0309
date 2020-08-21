@@ -1,3 +1,6 @@
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/PINTO/posts.svg)](http://qiita.com/PINTO)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/PINTO/contributions.svg)](http://qiita.com/PINTO)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/PINTO/followers.svg)](http://qiita.com/PINTO)
 
 ![PINTO0309's github stats](https://github-readme-stats.vercel.app/api?username=PINTO0309&show_icons=true&theme=radical)
 ![PINTO0309's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PINTO0309&show_icons=true&theme=radical&layout=compact)  
