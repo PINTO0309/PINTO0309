@@ -1,8 +1,10 @@
-<p><em>I'm a hobby programmer.　<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /></em></p>
+<p><em>I'm a hobby programmer.　<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /></em></p>  
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/PINTO/posts.svg)](http://qiita.com/PINTO)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/PINTO/contributions.svg)](http://qiita.com/PINTO)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/PINTO/followers.svg)](http://qiita.com/PINTO)
+
+![Twitter](https://img.shields.io/twitter/follow/pinto03091?label=Followers%20%40pinto03091&style=social)  
 
 ![PINTO0309's github stats](https://github-readme-stats.vercel.app/api?username=PINTO0309&show_icons=true&theme=radical)
 ![PINTO0309's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PINTO0309&show_icons=true&theme=radical&layout=compact)  
