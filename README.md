@@ -1,3 +1,5 @@
+<p><em>I'm a hobby programmer.　<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /></em></p>
+
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/PINTO/posts.svg)](http://qiita.com/PINTO)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/PINTO/contributions.svg)](http://qiita.com/PINTO)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/PINTO/followers.svg)](http://qiita.com/PINTO)
