@@ -4,6 +4,8 @@
 
 **[Intel Software Innovator member list](https://devmesh.intel.com/users?roles%5B%5D=Innovator)**  
 
+**:star: [Gitstar Ranking - PINTO0309](https://gitstar-ranking.com/PINTO0309) :hamster:**  
+
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/PINTO/posts.svg)](http://qiita.com/PINTO)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/PINTO/contributions.svg)](http://qiita.com/PINTO)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/PINTO/followers.svg)](http://qiita.com/PINTO)
