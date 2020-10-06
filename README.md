@@ -11,7 +11,7 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/PINTO/followers.svg)](http://qiita.com/PINTO)
 [![Twitter](https://img.shields.io/twitter/follow/pinto03091?label=Followers%20%40pinto03091&style=social)](https://twitter.com/PINTO03091)  
 
-![PINTO0309's github stats](https://github-readme-stats.vercel.app/api?username=PINTO0309&show_icons=true&theme=radical)
+![PINTO0309's github stats](https://github-readme-stats.vercel.app/api?username=PINTO0309&show_icons=true&theme=radical&include_all_commits=true)
 ![PINTO0309's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PINTO0309&show_icons=true&theme=radical&layout=compact)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=PINTO0309)](https://github.com/ryo-ma/github-profile-trophy)
 
