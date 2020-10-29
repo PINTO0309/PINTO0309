@@ -8,7 +8,9 @@
 [![Twitter](https://img.shields.io/twitter/follow/pinto03091?label=Followers%20%40pinto03091&style=social)](https://twitter.com/PINTO03091)
 [![trophy](https://github-profile-trophy.vercel.app/?username=PINTO0309)](https://github.com/ryo-ma/github-profile-trophy)  
   
-**[Intel Software Innovator member list](https://devmesh.intel.com/users?roles%5B%5D=Innovator)** **:star: [Gitstar Ranking - PINTO0309](https://gitstar-ranking.com/PINTO0309) :hamster:**  
+**[Intel Software Innovator member list](https://devmesh.intel.com/users?roles%5B%5D=Innovator)**  
+  
+**:star: [Gitstar Ranking - PINTO0309](https://gitstar-ranking.com/PINTO0309) :hamster:**  
 
 ![PINTO0309's github stats](https://github-readme-stats.vercel.app/api?username=PINTO0309&show_icons=true&theme=radical&include_all_commits=true)
 ![PINTO0309's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PINTO0309&show_icons=true&theme=radical&layout=compact)  
