@@ -1,6 +1,6 @@
 <p><em>I'm a hobby programmer.　<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /></em></p>  
 
-<img align='left' src="https://user-images.githubusercontent.com/33194443/92995358-dbf07300-f53d-11ea-987f-2a87cfda496f.png" width="160">
+<img align='left' src="https://user-images.githubusercontent.com/33194443/92995358-dbf07300-f53d-11ea-987f-2a87cfda496f.png" width="130">
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/PINTO/posts.svg)](http://qiita.com/PINTO)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/PINTO/contributions.svg)](http://qiita.com/PINTO)
