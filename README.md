@@ -1,4 +1,4 @@
-<p><em>I'm a hobby programmer.　<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /></em></p>  
+<p><em>I'm a hobby programmer.　<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> <img alt="Visitors" src="https://komarev.com/ghpvc/?username=pinto0309&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></em></p>  
 
 <img align='left' src="https://user-images.githubusercontent.com/33194443/92995358-dbf07300-f53d-11ea-987f-2a87cfda496f.png" width="100">
 
