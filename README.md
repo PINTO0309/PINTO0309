@@ -2,6 +2,8 @@
 
 <img align='left' src="https://user-images.githubusercontent.com/33194443/92995358-dbf07300-f53d-11ea-987f-2a87cfda496f.png" width="100">
 
+**https://zenn.dev/pinto0309**
+
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/PINTO/posts.svg)](http://qiita.com/PINTO)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/PINTO/contributions.svg)](http://qiita.com/PINTO)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/PINTO/followers.svg)](http://qiita.com/PINTO)
