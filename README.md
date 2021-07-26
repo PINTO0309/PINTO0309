@@ -14,7 +14,6 @@
   
 **:star: [Gitstar Ranking - PINTO0309](https://gitstar-ranking.com/PINTO0309) :hamster:**  
 
-![PINTO0309's github stats](https://github-readme-stats.vercel.app/api?username=PINTO0309&show_icons=true&theme=solarized-light&include_all_commits=true)
-![PINTO0309's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PINTO0309&show_icons=true&theme=solarized-light&layout=compact)  
-![Screenshot 2020-10-29 21:54:58](https://user-images.githubusercontent.com/33194443/97576421-7e52b000-1a31-11eb-884f-adaf428bfcd1.png)
+![PINTO0309's github stats](https://github-readme-stats.vercel.app/api?username=PINTO0309&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=303030&include_all_commits=true)
+![PINTO0309's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PINTO0309&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=303030&layout=compact)  
 [![Katsuya Hyodo's github activity graph](https://activity-graph.herokuapp.com/graph?username=pinto0309&theme=nord)](https://github.com/pinto0309/github-readme-activity-graph)
