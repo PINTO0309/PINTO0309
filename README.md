@@ -25,9 +25,7 @@
 </a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=PINTO0309)](https://github.com/ryo-ma/github-profile-trophy)  
   
-**[Intel Software Innovator member list](https://devmesh.intel.com/users?roles%5B%5D=Innovator)**  
-  
-**:star: [Gitstar Ranking - PINTO0309](https://gitstar-ranking.com/PINTO0309) :hamster:**  
+**[Intel Software Innovator member list](https://devmesh.intel.com/users?roles%5B%5D=Innovator)**　**:star: [Gitstar Ranking - PINTO0309](https://gitstar-ranking.com/PINTO0309) :hamster:**  
 
 ![PINTO0309's github stats](https://github-readme-stats.vercel.app/api?username=PINTO0309&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=303030&include_all_commits=true)
 ![PINTO0309's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PINTO0309&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=303030&layout=compact)  
