@@ -9,7 +9,22 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/PINTO/posts.svg)](http://qiita.com/PINTO)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/PINTO/contributions.svg)](http://qiita.com/PINTO)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/PINTO/followers.svg)](http://qiita.com/PINTO)
-[![Twitter](https://img.shields.io/twitter/follow/pinto03091?label=Followers%20%40pinto03091&style=social)](https://twitter.com/PINTO03091)
+[![Twitter](https://img.shields.io/twitter/follow/pinto03091?label=Followers%20%40pinto03091&style=social)](https://twitter.com/PINTO03091)  
+<a href="https://zenn.dev/pinto0309">
+  <img src="https://zenn.badge.nikaera.com/s/pinto0309/likes?style=flat" alt="pinto0309 likes" />
+</a>
+<a href="https://zenn.dev/pinto0309/articles">
+  <img src="https://zenn.badge.nikaera.com/s/pinto0309/articles?style=flat" alt="pinto0309 articles" />
+</a>
+<a href="https://zenn.dev/pinto0309/followers">
+  <img src="https://zenn.badge.nikaera.com/s/pinto0309/followers?style=flat" alt="pinto0309 followers" />
+</a>
+<a href="https://zenn.dev/pinto0309/books">
+  <img src="https://zenn.badge.nikaera.com/s/pinto0309/books?style=flat" alt="pinto0309 books" />
+</a>
+<a href="https://zenn.dev/pinto0309/scraps">
+  <img src="https://zenn.badge.nikaera.com/s/pinto0309/scraps?style=flat" alt="pinto0309 scraps" />
+</a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=PINTO0309)](https://github.com/ryo-ma/github-profile-trophy)  
   
 **[Intel Software Innovator member list](https://devmesh.intel.com/users?roles%5B%5D=Innovator)**  
