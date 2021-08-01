@@ -23,7 +23,7 @@
 <a href="https://zenn.dev/pinto0309/scraps">
   <img src="https://zenn.badge.nikaera.com/s/pinto0309/scraps?style=flat" alt="pinto0309 scraps" />
 </a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=PINTO0309)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=PINTO0309&margin-w=5&margin-h=5&column=4)](https://github.com/ryo-ma/github-profile-trophy)  
   
 **[Intel Software Innovator member list](https://devmesh.intel.com/users?roles%5B%5D=Innovator)**　**:star: [Gitstar Ranking - PINTO0309](https://gitstar-ranking.com/PINTO0309) :hamster:**  
 
