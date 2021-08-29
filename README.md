@@ -28,5 +28,5 @@
 **[Intel Software Innovator member list](https://devmesh.intel.com/users?roles%5B%5D=Innovator)**　**:star: [Gitstar Ranking - PINTO0309](https://gitstar-ranking.com/PINTO0309) :hamster:**  
 
 ![PINTO0309's github stats](https://github-readme-stats.vercel.app/api?username=PINTO0309&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=303030&include_all_commits=true)
-<img src="https://github.com/PINTO0309/github-stats-transparent/blob/output/generated/languages.svg" width="38%">
+<img src="https://github.com/PINTO0309/github-stats-transparent/blob/output/generated/languages.svg" width="40%">
 [![Katsuya Hyodo's github activity graph](https://activity-graph.herokuapp.com/graph?username=pinto0309&theme=nord)](https://github.com/pinto0309/github-readme-activity-graph)
