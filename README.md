@@ -1,12 +1,12 @@
 <p><em>I'm a hobby programmer.　<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />　<img alt="Visitors" src="https://komarev.com/ghpvc/?username=pinto0309&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></em></p>  
 
 ![PINTO0309's github stats](https://github-readme-stats.vercel.app/api?username=PINTO0309&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=303030&include_all_commits=true)
-<img src="https://github.com/PINTO0309/github-stats-transparent/blob/output/generated/languages.svg" width="41%">
+![code](https://github.com/PINTO0309/github-stats-transparent/blob/output/generated/languages.svg)
 [![Katsuya Hyodo's github activity graph](https://activity-graph.herokuapp.com/graph?username=pinto0309&theme=nord)](https://github.com/pinto0309/github-readme-activity-graph)
 
 ![Metrics](https://metrics.lecoq.io/pinto0309?template=classic&config.timezone=Asia%2FTokyo)
 
-![code](https://user-images.githubusercontent.com/33194443/92995358-dbf07300-f53d-11ea-987f-2a87cfda496f.png)
+![summary](https://user-images.githubusercontent.com/33194443/92995358-dbf07300-f53d-11ea-987f-2a87cfda496f.png)
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/PINTO/posts.svg)](http://qiita.com/PINTO)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/PINTO/contributions.svg)](http://qiita.com/PINTO)
