@@ -6,7 +6,7 @@
 
 ![Metrics](https://metrics.lecoq.io/pinto0309?template=classic&config.timezone=Asia%2FTokyo)
 
-<img align='left' src="https://user-images.githubusercontent.com/33194443/92995358-dbf07300-f53d-11ea-987f-2a87cfda496f.png" width="100">
+![code](https://user-images.githubusercontent.com/33194443/92995358-dbf07300-f53d-11ea-987f-2a87cfda496f.png)
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/PINTO/posts.svg)](http://qiita.com/PINTO)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/PINTO/contributions.svg)](http://qiita.com/PINTO)
