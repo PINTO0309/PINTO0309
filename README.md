@@ -2,7 +2,7 @@
 
 ![PINTO0309's github stats](https://github-readme-stats-seven-sigma-13.vercel.app/api?username=PINTO0309&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=303030&include_all_commits=true)
 ![code](https://github.com/PINTO0309/github-stats-transparent/blob/output/generated/languages.svg)
-[![Katsuya Hyodo's github activity graph](https://activity-graph.herokuapp.com/graph?username=pinto0309&theme=nord)](https://github.com/pinto0309/github-readme-activity-graph)
+[![Katsuya Hyodo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pinto0309&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Metrics](https://metrics.lecoq.io/pinto0309?template=classic&config.timezone=Asia%2FTokyo)
 
