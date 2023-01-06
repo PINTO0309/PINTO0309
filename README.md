@@ -1,7 +1,6 @@
 <p><em>I'm a hobby programmer.　<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />　<img alt="Visitors" src="https://komarev.com/ghpvc/?username=pinto0309&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></em></p>  
 
 ![PINTO0309's github stats](https://github-readme-stats-seven-sigma-13.vercel.app/api?username=PINTO0309&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=303030&include_all_commits=true)
-![Katsuya Hyodo's github activity graph](https://dry-springs-55262.herokuapp.com/graph?username=pinto0309&theme=nord)
 [![Star History Chart](https://api.star-history.com/svg?repos=PINTO0309/PINTO_model_zoo,PINTO0309/simple-onnx-processing-tools,PINTO0309/onnx2tf,PINTO0309/tflite2tensorflow,PINTO0309/openvino2tensorflow&type=Date)](https://star-history.com/#PINTO0309/PINTO_model_zoo&PINTO0309/simple-onnx-processing-tools&PINTO0309/onnx2tf&PINTO0309/tflite2tensorflow&PINTO0309/openvino2tensorflow&Date)
 
 ![Metrics](https://metrics.lecoq.io/pinto0309?template=classic&config.timezone=Asia%2FTokyo)
