@@ -3,7 +3,7 @@
 ![PINTO0309's github stats](https://github-readme-stats-seven-sigma-13.vercel.app/api?username=PINTO0309&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=303030&include_all_commits=true)
 [![Star History Chart](https://api.star-history.com/svg?repos=PINTO0309/PINTO_model_zoo,PINTO0309/simple-onnx-processing-tools,PINTO0309/onnx2tf,PINTO0309/tflite2tensorflow,PINTO0309/openvino2tensorflow&type=Date)](https://star-history.com/#PINTO0309/PINTO_model_zoo&PINTO0309/simple-onnx-processing-tools&PINTO0309/onnx2tf&PINTO0309/tflite2tensorflow&PINTO0309/openvino2tensorflow&Date)
 
-![Metrics](https://metrics.lecoq.io/pinto0309?template=classic&config.timezone=Asia%2FTokyo)
+<!-- ![Metrics](https://metrics.lecoq.io/pinto0309?template=classic&config.timezone=Asia%2FTokyo) -->
 
 <img align='left' src="https://user-images.githubusercontent.com/33194443/92995358-dbf07300-f53d-11ea-987f-2a87cfda496f.png" width="100">
 
