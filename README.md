@@ -1,5 +1,7 @@
 <p><em>I'm a hobby programmer.　<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />　<img alt="Visitors" src="https://komarev.com/ghpvc/?username=pinto0309&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></em></p>  
 
+<img width="1024" height="1024" alt="グラレコ風自己紹介_English_ver" src="https://github.com/user-attachments/assets/f43e6de3-6bd1-4835-addd-f6d312d7b615" />
+
 ![PINTO0309's github stats](https://github-readme-stats-seven-sigma-13.vercel.app/api?username=PINTO0309&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=303030&include_all_commits=true)
 [![Star History Chart](https://api.star-history.com/svg?repos=PINTO0309/PINTO_model_zoo,PINTO0309/onnx2tf,PINTO0309/simple-onnx-processing-tools,PINTO0309/tflite2tensorflow,PINTO0309/openvino2tensorflow&type=Date)](https://star-history.com/#PINTO0309/PINTO_model_zoo&PINTO0309/simple-onnx-processing-tools&PINTO0309/onnx2tf&PINTO0309/tflite2tensorflow&PINTO0309/openvino2tensorflow&Date)
 
